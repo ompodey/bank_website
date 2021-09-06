@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+header {
+  padding: 10px;
+  background-color: rgb(185, 0, 0);
+  color: white;
+  text-align: center;
+}
+nav {
+  background-color: teal;
+  padding: 10px;
+  text-align: center;
+  overflow: hidden;
+}
+nav a{
+    padding: 10px 180px;
+    color: white;
+    text-decoration: none;
+    overflow: hidden;
+
+}
+nav a :hover{
+  background-color: crimson;
+  color: white;
+}
+.ndtv{
+    background-color: rgb(93, 109, 51);
+    padding: 5px;
+     
+}
+marquee a{
+    padding: 2px;
+    color: rgb(255, 255, 255);
+   
+}
+.desk{
+  background-image:url(img/border.png)
+  
+}
+.info{
+  color: black;
+}
